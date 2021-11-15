@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My favorite languages - 
+**Javascript,**
+**Java,**
+**C++,**
+**C,**
+**Python**
+
+Database skills - 
+**SQL,**
+**MongoDB**
