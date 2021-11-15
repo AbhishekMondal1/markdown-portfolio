@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+- Favorite Languages
+  - Javascript
+  - Java
+  - C++
+  - C
+  - Python
+  - SQL
+  - MongoDB
